@@ -1,0 +1,15 @@
+.web {
+  background-image: url("https://unsplash.com/photos/JVSgcV8_vb4/download?force=true");
+}
+
+.photography {
+  background-image: url("https://unsplash.com/photos/eBRTYyjwpRY/download?force=true");
+}
+
+.apps {
+  background-image: url("https://unsplash.com/photos/9e9PD9blAto/download?force=true");
+}
+
+#start .col-sm {
+  height: 30vh;
+}
